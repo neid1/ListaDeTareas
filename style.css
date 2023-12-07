@@ -1,0 +1,47 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#crearTarea{
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+#botonSub{
+    background-color: #015520;
+      color: #fff;
+      border: none;
+      padding: 15px 15px;
+      border-radius: 10px;
+      cursor: pointer;
+      margin: 10px;
+
+}
+h2{
+    text-align: center;
+}
+.form{
+    text-align: center;
+    
+}
+li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 5px;
+    
+}
+li.tarea{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.deleteButton{
+    background-color: #ff6347;
+      color: #fff;
+      border: none;
+      padding: 5px 10px;
+      cursor: pointer;
+}
